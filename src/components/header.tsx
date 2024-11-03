@@ -52,12 +52,3 @@ export default function Header() {
     </header>
   );
 }
-
-/*
-git init
-git add .
-git commit -m "class 8 code updated"
-git branch -M main
-git remote add origin https://github.com/mhdawaisrajput/nextjs-class-8.git
-git push -u origin main
-*/
